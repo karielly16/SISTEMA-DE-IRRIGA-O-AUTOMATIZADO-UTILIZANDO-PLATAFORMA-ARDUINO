@@ -1,6 +1,7 @@
-# SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO
+# Sistema de Irrigação Automatizado Utilizando a Plataforma Arduino
 
-Introdução
+<div><h3>Introdução</3></div>
+
 Um sistema de irrigação automatizado torna o processo de irrigação mais eficiente, econômico e
 preciso. Com o uso da plataforma Arduino, é possível criar um sistema de irrigação automatizado
 que pode ser controlado e monitorado remotamente.
@@ -14,7 +15,7 @@ sustentável, pois evita desperdícios de água e energia. Com a utilização de
 garantir que a irrigação seja feita somente quando necessário, evitando o excesso de água e
 reduzindo o consumo de energia.
 
-Definição do problema
+<div><h3>Definição do problema</3></div>
 
 O ritmo de vida atual está cada vez mais corrido devido a diversos fatores, como trabalho, família,
 lazer e trânsito caótico, resultando em perda de tempo para deslocamentos. Isso acaba
@@ -30,7 +31,7 @@ Diante desse desafio, este projeto busca pesquisar sistemas de irrigação autom
 foco na plataforma Arduino, a fim de desenvolver um protótipo de sistema de irrigação preciso, de
 baixo custo e adequado para pequenos agricultores e jardins.
 
-Arquitetura da aplicação
+<div><h3>Arquitetura da aplicação</3></div>
 
 Para o desenvolvimento deste protótipo de sistema de irrigação automatizado
 com Arduino precisou-se dos seguintes itens:
@@ -42,8 +43,8 @@ Relé;
 Bomba d’água submersa;
 Jumpers;
 
-Simulação do desenvolvimento
-Diagrama de Caso e Uso
+<div><h3>Simulação do desenvolvimento</3></div>
+<div><h3>Diagrama de Caso e Uso</3></div>
 
 ![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/dcc50298-c04f-4ee8-8470-ef4f0899bc16)
 
