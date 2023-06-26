@@ -48,4 +48,15 @@ Jumpers;
 
 ![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/dcc50298-c04f-4ee8-8470-ef4f0899bc16)
 
+<div><h3>Conexões</3></div>
+
+A conexão do sistema realizada da seguinte maneira:
+os sensores de umidade do solo são conectados aos pinos analógicos da placa Arduino. Esses sensores serão responsáveis por medir a umidade do solo e fornecer os dados para o controle do sistema de irrigação.
+
+A bomba d'água é conectada aos pinos digitais da placa Arduino, através de relés. O relé é utilizados para controlar o acionamento a bomba, ligando-a ou desligando-a conforme a necessidade de irrigação
+
+![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/31ab746d-b8d1-4bd2-b5b9-ed09d5206eb8)
+![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/e3f32366-51d3-44bd-81de-0cfe1212f014)
+![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/cc1042db-bf59-4762-9d35-21fac5fbd315)
+![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/f4038ff8-1695-4092-8028-a677d314dc7a)
 
