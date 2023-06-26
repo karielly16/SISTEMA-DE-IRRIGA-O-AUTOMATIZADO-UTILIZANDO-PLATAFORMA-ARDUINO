@@ -55,8 +55,9 @@ os sensores de umidade do solo são conectados aos pinos analógicos da placa Ar
 
 A bomba d'água é conectada aos pinos digitais da placa Arduino, através de relés. O relé é utilizados para controlar o acionamento a bomba, ligando-a ou desligando-a conforme a necessidade de irrigação
 
-![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/31ab746d-b8d1-4bd2-b5b9-ed09d5206eb8)
-![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/e3f32366-51d3-44bd-81de-0cfe1212f014)
-![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/cc1042db-bf59-4762-9d35-21fac5fbd315)
-![image](https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/f4038ff8-1695-4092-8028-a677d314dc7a)
+ <img width="400px" style="width: 40%;  padding-right: 50px;"  src="https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/31ab746d-b8d1-4bd2-b5b9-ed09d5206eb8">  
+ <img width="400px"  style="width: 40%; padding-right: 30px;" src="https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/9a4a3089-f2dd-4dec-9a19-a5a8e426d467">
+  <img width="400px"  style="width: 40%; padding-right: 50px;" src="https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/43b4ae8b-b72a-4ca0-8305-611ad059d77c">
+ <img width="400px"  style="width: 40%; padding-right: 50px;" src="https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/e8289e93-8734-47be-9b59-ae1bf1096d65">
+ 
 
