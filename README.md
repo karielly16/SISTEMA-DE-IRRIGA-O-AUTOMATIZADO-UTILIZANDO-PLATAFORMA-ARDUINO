@@ -60,4 +60,13 @@ A bomba d'água é conectada aos pinos digitais da placa Arduino, através de re
   <img width="400px"  style="width: 40%; padding-right: 50px;" src="https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/43b4ae8b-b72a-4ca0-8305-611ad059d77c">
  <img width="400px"  style="width: 40%; padding-right: 50px;" src="https://github.com/karielly16/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79888115/e8289e93-8734-47be-9b59-ae1bf1096d65">
  
+<div><h3>Terrário</3></div> 
+    
+O terrário foi construído utilizando tábuas com formas geométricas, proporcionando uma estrutura na qual é possível inserir vidros. Essa configuração permite a entrada de luz solar e proporciona uma visão clara do interior.
 
+<div><h3>Conclusão</3></div> 
+
+O sistema de irrigação baseado na plataforma Arduino oferece uma solução automatizada e eficiente para regar as plantas, criando um ambiente propício ao seu crescimento saudável e permitindo o monitoramento da umidade do solo.
+Para aprimorar ainda mais o sistema, é essencial considerar projetos futuros que visem aumentar a precisão e a eficiência do processo de irrigação. Realizar uma análise mais aprofundada do solo e das necessidades específicas das plantas pode resultar em um desempenho ainda mais satisfatório. Ao incorporar esses dados em um sistema inteligente, seria possível realizar ajustes mais complexos e personalizados.
+A implementação de um sistema de monitoramento online em tempo real traria benefícios significativos. Isso permitiria acompanhar os dados de umidade do solo, status da irrigação e outras informações relevantes de forma contínua. O desenvolvimento de um aplicativo dedicado simplificaria a experiência do usuário, tornando mais fácil compreender e interpretar os dados coletados.
+Essas melhorias contribuiriam para otimizar o uso da água e melhorar a eficiência da irrigação, resultando em um crescimento saudável das plantas. Além disso, proporcionariam uma gestão mais sustentável dos recursos hídricos, promovendo a conservação e o uso responsável da água.
